@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\_Dev\\Godot\\plataformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|c:\\_dev\\godot\\plataformer\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|solutionrelative:scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|c:\\_dev\\godot\\plataformer\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|solutionrelative:scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|c:\\_dev\\godot\\plataformer\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|c:\\_dev\\godot\\plataformer\\scripts\\greenslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|solutionrelative:scripts\\greenslime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|c:\\_dev\\godot\\plataformer\\scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1017754-ABB7-44EB-ADC5-B5B8A5A6B6D5}|Plataformer.csproj|solutionrelative:scripts\\killzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\_Dev\\Godot\\plataformer\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Scripts\\GameManager.cs",
+              "ToolTip": "C:\\_Dev\\Godot\\plataformer\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:37:37.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreenSlime.cs",
+              "DocumentMoniker": "C:\\_Dev\\Godot\\plataformer\\Scripts\\GreenSlime.cs",
+              "RelativeDocumentMoniker": "Scripts\\GreenSlime.cs",
+              "ToolTip": "C:\\_Dev\\Godot\\plataformer\\Scripts\\GreenSlime.cs",
+              "RelativeToolTip": "Scripts\\GreenSlime.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:23:38.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Killzone.cs",
+              "DocumentMoniker": "C:\\_Dev\\Godot\\plataformer\\Scripts\\Killzone.cs",
+              "RelativeDocumentMoniker": "Scripts\\Killzone.cs",
+              "ToolTip": "C:\\_Dev\\Godot\\plataformer\\Scripts\\Killzone.cs",
+              "RelativeToolTip": "Scripts\\Killzone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:58:50.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\_Dev\\Godot\\plataformer\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Scripts\\Coin.cs",
+              "ToolTip": "C:\\_Dev\\Godot\\plataformer\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T05:19:34.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\_Dev\\Godot\\plataformer\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Scripts\\Player.cs",
+              "ToolTip": "C:\\_Dev\\Godot\\plataformer\\Scripts\\Player.cs",
+              "RelativeToolTip": "Scripts\\Player.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAawDoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T03:21:02.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
